@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feb18b95.css",
+    "main.js": "/static/js/main.b709662c.js",
+    "static/media/earth.jpg": "/static/media/earth.54672c1f3ba121d80470.jpg",
+    "static/media/moon.jpg": "/static/media/moon.a2edaf8548e78714814b.jpg",
+    "static/media/space.jpg": "/static/media/space.03c93da080fec800d428.jpg",
+    "index.html": "/index.html",
+    "main.feb18b95.css.map": "/static/css/main.feb18b95.css.map",
+    "main.b709662c.js.map": "/static/js/main.b709662c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb18b95.css",
+    "static/js/main.b709662c.js"
+  ]
+}
